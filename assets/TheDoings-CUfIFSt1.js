@@ -1,0 +1,1 @@
+import{d as o,b as t,h as e}from"./index-5qZ8P3t5.js";const r=o({__name:"TheDoings",setup(n){return(()=>{window.open("http://chatsnext.goldgom.top","_blank")})(),(s,c)=>(e(),t("div"))}});export{r as default};
